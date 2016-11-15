@@ -4,6 +4,8 @@
 
 * Node has been upgraded to version 4.6.2.
 
+* The `sqlite3` npm package has been upgraded to version 3.1.8.
+
 * `meteor create` now has a new `--full` option, which generates an larger app,
   demonstrating development techniques highlighted in the
   [Meteor Guide](http://guide.meteor.com)
